@@ -1,8 +1,10 @@
-[
-    "Fixed auto folder news scroll issue",
-    "Fixed Theme color issue",
-    "Fixed FAB's shadow",
-    "Linked keyboard theme with app theme settings",
-    "Fixed loader & notification for follow",
-    "integrated detach manual folder article"
+{
+"details": [
+"Fixed layout of update available screen",
+"Fixed manual feed always showing textinput before loading news",
+"Fixed doubled loaders",
+"Linked keyboard theme with app theme settings",
+"Fixed loader for follow",
+"Fixed follow/unfollow labels"
 ]
+}
